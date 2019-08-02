@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-const newID = Number.parseInt(newID, 10);
+const newID = Number.parseInt(oldID, 10);
